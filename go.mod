@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/Azure/go-autorest/autorest v0.10.0 // indirect
-	github.com/aws/aws-sdk-go v1.29.32
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/fvbommel/sortorder v1.0.1
 	github.com/magiconair/properties v1.8.1
 	github.com/prometheus/client_golang v1.5.1
